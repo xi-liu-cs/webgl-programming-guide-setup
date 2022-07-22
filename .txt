@@ -1,6 +1,5 @@
 https://sites.google.com/site/webglbook/home
 
-depending on location of library
-may need to change 
+base on location of library
 <script src = "../lib/webgl-utils.js"></script>
 <script src = "../../lib/webgl-utils.js"></script>
